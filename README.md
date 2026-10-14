@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Akul Saju
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=41DDFF&center=true&vCenter=true&width=800&lines=Hack+Club+Leader;Hackathon+Organizer;Full+Stack+Developer;Hardware+Builder;Future+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=41DDFF&center=true&vCenter=true&width=800&lines=UAE+Team;Hackathon+Organizer;Full+Stack+Developer;Hardware+Builder;Coder" />
 </p>
 
 <p align="center">
-🎓 Grade 9 Student • 💻 Builder • ⚙️ Hardware + Software • 📍 Abu Dhabi
+🎓 Student • 💻 Builder • ⚙️ Hardware + Software • 📍 Abu Dhabi
 </p>
 
 ---
@@ -15,7 +15,7 @@
 I love building **real-world tech projects**, organizing **student hackathons**, and creating tools that help other students learn and innovate.
 
 - 🔥 Organizer — Hack Abu Dhabi @ ADNEC  
-- ⚡ Lead — Counterspell Abu Dhabi (Hack Club)  
+- ⚡ Lead — Counterspell Abu Dhabi
 - 🖨️ Building — Terbium DIY 3D Printer  
 - 📱 Developing — React Native apps  
 - 🤖 Learning — AI + Embedded Systems  
