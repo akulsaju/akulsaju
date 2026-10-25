@@ -29,6 +29,7 @@ I'm a developer who enjoys building things that go beyond the screen — from AI
 - 💻 Building full-stack applications and developer tools
 - 🖨️ Engineering open-source hardware and DIY 3D printing projects
 - 🏆 Competing internationally in hackathons
+- 🥇 Won **Best Tech Idea** in the **Department of Health Hackathon**
 - 🌍 Learning by building, experimenting, and contributing to open source
 
 ## 🏆 World Hackathon Championship
