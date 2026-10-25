@@ -14,7 +14,7 @@
   <a href="https://github.com/akulsaju">
     <img src="https://img.shields.io/badge/GitHub-akulsaju-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://akulsaju.github.io/htmlpersonalwebsite">
+  <a href="https://akul.tech">
     <img src="https://img.shields.io/badge/Portfolio-Visit-41DDFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
