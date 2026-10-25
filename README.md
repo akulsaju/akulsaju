@@ -163,7 +163,7 @@ A calendar-focused application exploring event organization, interface design, a
 
 <p>
   <a href="https://github.com/akulsaju">GitHub</a> ·
-  <a href="https://akulsaju.github.io/htmlpersonalwebsite">Personal Website</a>
+  <a href="https://akul.tech/">Personal Website</a>
 </p>
 
 ---
