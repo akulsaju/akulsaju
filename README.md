@@ -1,92 +1,173 @@
 # 👋 Hi, I'm Akul Saju
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=41DDFF&center=true&vCenter=true&width=800&lines=UAE+Team;Hackathon+Organizer;Full+Stack+Developer;Hardware+Builder;Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=700&color=41DDFF&center=true&vCenter=true&width=800&lines=AI+%26+Software+Developer;Full+Stack+Builder;Hardware+Enthusiast;Competitive+Hacker;Turning+Ideas+Into+Reality" alt="Typing animation" />
 </p>
 
 <p align="center">
-🎓 Student • 💻 Builder • ⚙️ Hardware + Software • 📍 Abu Dhabi
+  <b>Student Developer from Abu Dhabi, UAE</b>
+  <br/>
+  Building across AI, software, computer vision, and hardware.
+</p>
+
+<p align="center">
+  <a href="https://github.com/akulsaju">
+    <img src="https://img.shields.io/badge/GitHub-akulsaju-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://akulsaju.github.io/htmlpersonalwebsite">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-41DDFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I love building **real-world tech projects**, organizing **student hackathons**, and creating tools that help other students learn and innovate.
+I'm a developer who enjoys building things that go beyond the screen — from AI-powered software and computer vision systems to physical hardware.
 
-- 🔥 Organizer — Hack Abu Dhabi @ ADNEC  
-- ⚡ Lead — Counterspell Abu Dhabi
-- 🖨️ Building — Terbium DIY 3D Printer  
-- 📱 Developing — React Native apps  
-- 🤖 Learning — AI + Embedded Systems  
+- 🤖 Exploring AI, machine learning, and intelligent applications
+- 💻 Building full-stack applications and developer tools
+- 🖨️ Engineering open-source hardware and DIY 3D printing projects
+- 🏆 Competing internationally in hackathons
+- 🌍 Learning by building, experimenting, and contributing to open source
+
+## 🏆 World Hackathon Championship
+
+Representing the UAE in the World Hackathon Championship, with victories against:
+
+- 🇫🇷 France
+- 🇩🇪 Germany
+- 🇸🇦 Saudi Arabia
+
+**Competition:** World Hackathon Championship  
+**Representing:** United Arab Emirates 🇦🇪
+
+## 🚀 Featured Projects
+
+### 🤖 [AIM — AI Model Ecosystem](https://github.com/akulsaju/aim)
+
+An open-source ecosystem for training, packaging, running, and sharing AI models through a unified command-line interface.
+
+- Portable `.aim` model format
+- Model training and inference workflows
+- Extensible plugin architecture
+- Multiple model-engine concepts
+
+`Python` `AI/ML` `CLI` `Model Packaging`
+
+---
+
+### 🏎️ [Race Timer](https://github.com/akulsaju/race-timer)
+
+A race-timing project exploring automated timing and results processing using software and computer vision.
+
+`Python` `Computer Vision`
+
+---
+
+### 🖨️ [Terbium — DIY 3D Printer](https://github.com/akulsaju/terbium)
+
+An affordable, DIY-friendly, open-source 3D printer project focused on making hardware more accessible.
+
+- Open-source design philosophy
+- Hardware engineering and prototyping
+- Accessible, repairable hardware
+
+`Hardware` `3D Printing` `Open Source`
+
+---
+
+### 🧠 [MindPal — AI Wellness & Productivity](https://github.com/akulsaju/mindpal)
+
+An AI-powered application combining personal reflection and productivity tools in one experience.
+
+- Mood tracking and journaling
+- AI-assisted conversations
+- Focus timers and brain games
+- Personalized daily activities
+
+`Next.js` `TypeScript` `Supabase` `AI`
+
+---
+
+### 🌐 [Hackaccino — Interactive 3D Web](https://github.com/akulsaju/Hackaccino)
+
+An experimental 3D web experience combining interactive scenes, animated objects, and browser-based graphics.
+
+`JavaScript` `Three.js` `A-Frame` `WebGL`
+
+---
+
+### 🎨 [Blot — Generative Art](https://github.com/akulsaju/blot)
+
+Creative coding experiments exploring algorithmic drawings and visual art generated through code.
+
+`Creative Coding` `Generative Art`
+
+---
+
+### 🪟 [Windows XP Web Experiment](https://github.com/akulsaju/WINDOWSXP)
+
+A web development experiment inspired by the classic Windows XP desktop interface.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🗓️ [Calendar App](https://github.com/akulsaju/calender)
+
+A calendar-focused application exploring event organization, interface design, and useful everyday software.
+
+`Web Development`
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,git,github,supabase,opencv" alt="Technology stack"/>
+</p>
 
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Areas of interest**
 
-### 🔧 Hardware
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)
-![Electronics](https://img.shields.io/badge/DIY-Electronics-blue?style=for-the-badge)
-![3D Printing](https://img.shields.io/badge/3D-Printing-orange?style=for-the-badge)
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development
+- Computer Vision
+- Embedded Systems & Electronics
+- Hardware Prototyping
+- Generative Art
 
----
+## 📊 GitHub Activity
 
-## 🏆 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akulsaju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</p>
 
-### 🔹 Counterspell Abu Dhabi
-Hackathon gallery + admin dashboard + backend  
-🔗 https://github.com/akulsaju/counterspell
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akulsaju&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
 
-### 🔹 Hack Club Calendar App
-React Native student events app
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akulsaju&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-### 🔹 Terbium
-DIY 3D Printer engineered from scratch
+## 🎯 What I'm Working Toward
 
-### 🔹 Code Art
-Black & white generative algorithmic drawings
+- 🤖 Building useful AI-powered tools
+- 🛠️ Creating hardware that is accessible and open source
+- 💻 Developing ambitious software projects
+- 🌍 Contributing to the global developer community
+- 🚀 Turning experimental ideas into working products
 
----
+## 🌐 Find Me Online
 
-## 📊 GitHub Stats
-
-### 🔥 Profile Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akulsaju&show_icons=true&count_private=true)
-
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akulsaju&layout=compact)
-
-### ⚡ Streak
-![Streak](https://streak-stats.demolab.com?user=akulsaju)
-
----
-
-## 🎯 Goals
-
-- 🚀 Host UAE’s biggest student hackathon  
-- 🤖 Build AI tools for students  
-- 🛠️ Launch a tech startup  
-- 🌍 Contribute more open source  
-
----
-
-## 🌐 Connect
-
-🌍 Website: https://akulsaju.github.io/htmlpersonalwebsite  
-💻 GitHub: https://github.com/akulsaju  
+<p>
+  <a href="https://github.com/akulsaju">GitHub</a> ·
+  <a href="https://akulsaju.github.io/htmlpersonalwebsite">Personal Website</a>
+</p>
 
 ---
 
 <p align="center">
-⭐ <b>Build things that matter. Learn every day.</b>
+  <b>Build boldly. Experiment constantly. Ship what matters.</b>
 </p>
