@@ -31,17 +31,6 @@ I'm a developer who enjoys building things that go beyond the screen — from AI
 - 🏆 Competing internationally in hackathons
 - 🌍 Learning by building, experimenting, and contributing to open source
 
-## 🏆 World Hackathon Championship
-
-Representing the UAE in the World Hackathon Championship, with victories against:
-
-- 🇫🇷 France
-- 🇩🇪 Germany
-- 🇸🇦 Saudi Arabia
-
-**Competition:** World Hackathon Championship  
-**Representing:** United Arab Emirates 🇦🇪
-
 ## 🚀 Featured Projects
 
 ### 🤖 [AIM — AI Model Ecosystem](https://github.com/akulsaju/aim)
